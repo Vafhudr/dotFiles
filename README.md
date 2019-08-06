@@ -182,3 +182,15 @@ openssh         (Ssh client & Server)
 zathura         (PDF etc)
 ```
 # Windows Install Guide
+
+**1. Install Drivers
+
+    1. Motherboard
+    
+    2. Lan
+    
+    3. Chipset
+    
+    4. Video Card
+
+**2. Install chocolatey
