@@ -140,6 +140,7 @@ A personal repository of notes and instructions on the maintaince and set up of 
 
 **24. Zsh + OhMyZsh6**
 
+---
 ### Applications
 ---
 ### Browsers
