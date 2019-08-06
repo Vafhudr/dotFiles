@@ -1,5 +1,5 @@
 # Notes & Dotfiles
-A personal repository of notes and instructions on the maintaince and set up of my linux machines. with explinations on why and how various commands a run. If anyone finds the information helpful excellent. Mostly sourced from the [Archwiki](https://wiki.archlinux.org/).
+A personal repository of notes and instructions on the maintaince and set up of my linux machines. Mostly sourced from the [Archwiki](https://wiki.archlinux.org/). 
 
 ## Arch Installation Guide
 **1. Check Internet connection**
@@ -17,12 +17,12 @@ A personal repository of notes and instructions on the maintaince and set up of 
     3. /swap
     
 **4. Format Partitions**
+
     1. mkfs.ext4 /dev/sda1
     
-    *2. mkswap /dev/sda2*
+    2. mkswap /dev/sda2
     
-    *3. swapon /dev/sda2*
-    
+    3. swapon /dev/sda2
     
 **5. Mount the file system**
 
@@ -114,9 +114,9 @@ A personal repository of notes and instructions on the maintaince and set up of 
 
 **18. Install Yay**
 
-    *1. git clone https://aur.archlinux.org/yay.git*
+    1. git clone https://aur.archlinux.org/yay.git
     
-    *2. cd yay
+    2. cd yay
     
     3. makepkg -si
     
@@ -140,40 +140,35 @@ A personal repository of notes and instructions on the maintaince and set up of 
 
 **24. Zsh + OhMyZsh6**
 
-    * Plugins
-    
-        1. vi-mode
-        
-**25. urxvt demon**
-    
 ### Applications
-* Browsers
-    * w3m
-    * qutebrowser
-* File Sharing
-    * Curl
-    * wget
-    * nextcloud       
-    * DriveSync
-    * Dropbox
-    * rTorrent
-* Communication
-    * NeoMutt         (Email)
-    * irssi           (IRC)
-* Multimedia
-    * Feh             (Image Viewer)
-    * mpd             (Music Player Demon)
-    * ncmpcpp         (CLI for mpd)
-    * mpv             (Video)
-* Utility
-    * Ranger          (File Manager)
-    * htop            (Process Viewer)
-    * neofetch        (System Information)
-    * neovim          (Text Editor)
-    * KeepassC        (Password Management)
-    * dunst           (Notification Daemon)
-    * tmux            (Terminal Multiplexer)
-    * fzf             (Fuzzy Finder)
-    * openssh         (Ssh client & Server)
-    * zathura         (PDF etc)
-
+```
+**Browsers**
+w3m
+qutebrowser
+**File Sharing**
+Curl
+wget
+nextcloud       
+DriveSync
+Dropbox
+rTorrent
+**Communication*
+NeoMutt         (Email)
+irssi           (IRC)
+Multimedia
+Feh             (Image Viewer)
+mpd             (Music Player Demon)
+ncmpcpp         (CLI for mpd)
+mpv             (Video)
+**Utility**
+Ranger          (File Manager)
+htop            (Process Viewer)
+neofetch        (System Information)
+neovim          (Text Editor)
+KeepassC        (Password Management)
+dunst           (Notification Daemon)
+tmux            (Terminal Multiplexer)
+fzf             (Fuzzy Finder)
+openssh         (Ssh client & Server)
+zathura         (PDF etc)
+```
