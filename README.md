@@ -141,18 +141,23 @@ A personal repository of notes and instructions on the maintaince and set up of 
 **24. Zsh + OhMyZsh6**
 
 ### Applications
+---
+### Browsers
 ```
-**Browsers**
 w3m
 qutebrowser
-**File Sharing**
+```
+#### File Sharing
+```
 Curl
 wget
 nextcloud       
 DriveSync
 Dropbox
 rTorrent
-**Communication*
+```
+#### Communication
+```
 NeoMutt         (Email)
 irssi           (IRC)
 Multimedia
@@ -160,7 +165,9 @@ Feh             (Image Viewer)
 mpd             (Music Player Demon)
 ncmpcpp         (CLI for mpd)
 mpv             (Video)
-**Utility**
+```
+#### Utility
+```
 Ranger          (File Manager)
 htop            (Process Viewer)
 neofetch        (System Information)
