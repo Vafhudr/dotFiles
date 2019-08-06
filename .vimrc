@@ -22,10 +22,16 @@ filetype plugin indent on
 
 "---OPTIONS---
 set number
+set relativenumber:
 set noshowmode
+set autoindent
+set cursorline
+set list lcs=tab:\|\
+syntax enable
+
+"---COLOR THEME---
 colorscheme jellybeans
 let g:airline_theme='jellybeans'
-set list lcs=tab:\|\
 
 "---KEYBINDING---
 map <C-n> :NERDTreeToggle<CR> 
