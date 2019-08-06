@@ -34,7 +34,7 @@ A personal repository of notes and instructions on the maintaince and set up of 
     
 **7. Install Packages**
 
-    1. pacstrap /mnt [Base](https://www.archlinux.org/groups/x86_64/base/) [Base-Devel](https://www.archlinux.org/groups/x86_64/base-devel/) grub sudo git
+    1. pacstrap /mnt Base Base-Devel grub git
     
 **8. Generate Fstab**
 
