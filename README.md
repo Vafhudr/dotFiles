@@ -1,7 +1,7 @@
-# Notes & Dotfiles
+3333# Notes & Dotfiles
 A personal repository of notes and instructions on the maintaince and set up of my linux machines. Mostly sourced from the [Archwiki](https://wiki.archlinux.org/). 
 
-## Arch Installation Guide
+# Arch Installation Guide
 **1. Check Internet connection**
 
 **2. Update System Clock**
@@ -181,3 +181,4 @@ fzf             (Fuzzy Finder)
 openssh         (Ssh client & Server)
 zathura         (PDF etc)
 ```
+# Windows Install Guide
