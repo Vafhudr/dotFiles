@@ -1,3 +1,6 @@
+
+    #Arch Installation Guide
+
     1. Check Internet connection
     2. Update System Clock
         1. timedatectl set-ntp true
@@ -30,12 +33,12 @@
     12. Network Config
         1. Create hostname file;
             1. vi /etc/hostname
-'myhostname'
+                'myhostname'
         2. Add Entries to hosts
             1. vi /etc/hosts
-127.0.0.1          localhost
-::1                localhost
-127.0.1.1         'myhostname.localdomain          'myhostname'
+                127.0.0.1          localhost
+                ::1                localhost
+                127.0.1.1         'myhostname.localdomain          'myhostname'
         3. Enable network manager service
             1. systemctl enable NetworkManager.service
     13. Root Password
@@ -69,6 +72,7 @@
         * Plugins
             1. vi-mode
     25. urxvt demon
+    
 
     * Applications
         * Browsers
@@ -100,3 +104,4 @@
             * fzf             (Fuzzy Finder)
             * openssh         (Ssh client & Server)
             * zathura         (PDF etc)
+
