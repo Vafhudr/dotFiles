@@ -1,5 +1,5 @@
 # Notes & Dotfiles
-A personal repository of notes and instructions on the maintaince and set up of my linux machines.
+A personal repository of notes and instructions on the maintaince and set up of my linux machines. with explinations on why and how various commands a run. If anyone finds the information helpful excellent. Mostly sourced from the [Archwiki](https://wiki.archlinux.org/).
 
 ## Arch Installation Guide
 **1. Check Internet connection**
