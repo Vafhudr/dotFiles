@@ -142,7 +142,6 @@ A personal repository of notes and instructions on the maintaince and set up of 
 
 ---
 ### Applications
----
 ### Browsers
 ```
 w3m
