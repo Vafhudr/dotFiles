@@ -36,7 +36,7 @@ Vivaldi
 **Browser Extentions;**
 Ublock Origin, HTTPS everywhere, Decentraleyes, Privacy Badger, Private Internet Access, Reddit Enchancement Suite, 4chanX
 
-**Filesharing;**
+**File Sharing;**
 Nextcloud, GoogleDrive, Dropbox, qBittorrent
 
 **Communication;**
