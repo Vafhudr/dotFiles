@@ -1,6 +1,6 @@
 # Notes & Dotfiles
 
-# Applications
+# Software
 ## Linux
 **OS**
 Arch Linux
