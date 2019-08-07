@@ -114,8 +114,8 @@ VLC, Spotify, Ifranview
             ::1                localhost            
             127.0.1.1         'myhostname.localdomain          'myhostname'
             
-    3. Enable network manager service    
-        1. systemctl enable NetworkManager.service
+    3. Enable dhcpcd service    
+        1. systemctl enable dhcpcd.service
         
 **13. Root Password**
 
@@ -149,7 +149,7 @@ VLC, Spotify, Ifranview
     
 **19. Install Graphical Environment**
 
-    1. pacman -S xorg-server xorg-xinit i3-gaps conky dmenu rxvt-unicode mensa xf86-video-intel tp_smapi compton    
+    1. pacman -S xorg-server xorg-xinit i3-gaps conky dmenu rxvt-unicode mesa xf86-video-intel tp_smapi compton    
     2. yay -S polybar
     3. Set Wallpaper
     
@@ -159,7 +159,7 @@ VLC, Spotify, Ifranview
 
 **22. Networking Set-up**
 
-    1. pacman -S ifplugd dialog**
+    1. pacman -S dialog**
     
 **23. Configure Terminal**
 
