@@ -185,12 +185,13 @@ zathura         (PDF etc)
 
 **1. Install Drivers
 
-    1. Motherboard
-    
-    2. Lan
-    
+    1. Motherboard    
+    2. Lan    
     3. Chipset
-    
     4. Video Card
 
 **2. Install chocolatey
+
+    ```
+    choco install 7zip autohotkey bleachbit classic-shell cmder dropbox irfanview keepassxc qbittorrent spotify teracopy vivaldi vlc flashplayerplugin jre8 malwarebytes steam origin discord twitch cygwin
+    ```
