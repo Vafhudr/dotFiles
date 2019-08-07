@@ -2,49 +2,49 @@
 
 # Applications
 
-|                      |Linux         | Description            |Windows                   | Description             |
-|---                   |---           |---                     |---                       |---                      |
-|**Browsers**          |w3m*          |*Terminal Browser*      |Vivaldi                   |                         |
-|                      |qutebrowser   |*Minimal Vim Bindings*  |                          |                         |
-|**Browser Extensions**|              |                        |Ublock Origin             |                         |
-|                      |              |                        |HTTPS everywhere          |                         |
-|                      |              |                        |Decentraleyes             |                         |
-|                      |              |                        |Privacy Badger            |                         |
-|                      |              |                        |Private Internet Access   |                         |
-|                      |              |                        |Reddit Enchancement Suite |                         |
-|                      |              |                        |4chanX                    |                         |
-|**File Sharing**      |Nextcloud     |                        |Nextcloud                 |                         |
-|                      |DriveSync     |                        |GoogleDrive               |                         |
-|                      |Dropbox       |                        |Dropbox                   |                         |
-|                      |rTorrent      |                        |qBittorrent               |                         |
-|                      |Curl          |                        |                          |                         |
-|                      |Wget          |                        |                          |                         |
-|**Communication**     |NeoMutt       |                        |Discord                   |                         |
-|                      |Irssi         |                        |                          |                         |
-|**Gaming**            |              |                        |Battle.net                |                         |
-|                      |              |                        |Steam                     |                         |
-|                      |              |                        |Origin                    |                         |
-|                      |              |                        |Magic the Gathering Online|                         |
-|                      |              |                        |Mtg Arena                 |                         |
-|                      |              |                        |Raider.io Client          |                         |
-|                      |              |                        |Tradeskillmaster Client   |                         |
-|                      |              |                        |Tukui Client              |                         |
-|                      |              |                        |SimulationCraft           |                         |
-|                      |              |                        |Twitch                    |                         |
-|**Multimedia**        |Feh           |*Image Viewer*          |Ifranview                 |*Image Viewer*           |
-|                      |mpd           |*Music PLayer Demoon*   |vlc                       |*Video Player*           |
-|                      |ncmpcpp       |*CLI for mpd*           |Spotify                   |*Music Streaming*        |
-|                      |mpv           |*Video Player*          |                          |                         |               
-|**Utility**           |Ranger        |*File Manager*          |7zip                      |*Archive & Compression*  |
-|                      |htop          |*Process Monitoring*    |Autohotkey                |*Scripting Language*     |
-|                      |neofetch      |*System Information*    |Bleachbit                 |*Disk Cleaner*           |
-|                      |neovim        |*Text Editor*           |Classic Shell             |*Windows Fixes*          |
-|                      |KeepassC      |*Password Manager*      |cmdr                      |*Terminal Emulator*      |
-|                      |dunst         |*Notification Daemon*   |KeepassXC                 |*Passowrd Manager*       |
-|                      |tmux          |*Terminal Multiplexer*  |teracopy                  |*File Transfer Utility*  |
-|                      |fzf           |*Fuzzy Finder*          |SumatraPDF                |*Document Viewer*        |
-|                      |openssh       |                        |                          |                         |
-|                      |zathura       |*Document Viewer*       |                          |                         |
+|                      |Linux             | Description            |Windows                       | Description             |
+|---                   |---               |---                     |---                           |---                      |
+|**Browsers**          |**w3m**           |*Terminal Browser*      |**Vivaldi**                   |                         |
+|                      |**qutebrowser**   |*Minimal Vim Bindings*  |                              |                         |
+|**Browser Extensions**|                  |                        |**Ublock Origin**             |                         |
+|                      |                  |                        |**HTTPS everywhere**          |                         |
+|                      |                  |                        |**Decentraleyes**             |                         |
+|                      |                  |                        |**Privacy Badger**            |                         |
+|                      |                  |                        |**Private Internet Access**   |                         |
+|                      |                  |                        |**Reddit Enchancement Suite** |                         |
+|                      |                  |                        |**4chanX**                    |                         |
+|**File Sharing**      |**Nextcloud**     |                        |**Nextcloud**                 |                         |
+|                      |**DriveSync**     |                        |**GoogleDrive**               |                         |
+|                      |**Dropbox**       |                        |**Dropbox**                   |                         |
+|                      |**rTorrent**      |                        |**qBittorrent**               |                         |
+|                      |**Curl**          |                        |                              |                         |
+|                      |**Wget**          |                        |                              |                         |
+|**Communication**     |**NeoMutt**       |                        |**Discord**                   |                         |
+|                      |**Irssi**         |                        |                              |                         |
+|**Gaming**            |                  |                        |**Battle.net**                |                         |
+|                      |                  |                        |**Steam**                     |                         |
+|                      |                  |                        |**Origin**                    |                         |
+|                      |                  |                        |**Magic the Gathering Online**|                         |
+|                      |                  |                        |**Mtg Arena**                 |                         |
+|                      |                  |                        |**Raider.io Client**          |                         |
+|                      |                  |                        |**Tradeskillmaster Client**   |                         |
+|                      |                  |                        |**Tukui Client**              |                         |
+|                      |                  |                        |**SimulationCraft**           |                         |
+|                      |                  |                        |**Twitch**                    |                         |
+|**Multimedia**        |**Feh**           |*Image Viewer*          |**Ifranview**                 |*Image Viewer*           |
+|                      |**mpd**           |*Music PLayer Demoon*   |**vlc**                       |*Video Player*           |
+|                      |**ncmpcpp**       |*CLI for mpd*           |**Spotify**                   |*Music Streaming*        |
+|                      |**mpv**           |*Video Player*          |                              |                         |           
+|**Utility**           |**Ranger**        |*File Manager*          |**7zip**                      |*Archive & Compression*  |
+|                      |**htop**          |*Process Monitoring*    |**Autohotkey**                |*Scripting Language*     |
+|                      |**neofetch**      |*System Information*    |**Bleachbit**                 |*Disk Cleaner*           |
+|                      |**neovim**        |*Text Editor*           |**Classic Shell**             |*Windows Fixes*          |
+|                      |**KeepassC**      |*Password Manager*      |**cmdr**                      |*Terminal Emulator*      |
+|                      |**dunst**         |*Notification Daemon*   |**KeepassXC**                 |*Passowrd Manager*       |
+|                      |**tmux**          |*Terminal Multiplexer*  |**teracopy**                  |*File Transfer Utility*  |
+|                      |**fzf**           |*Fuzzy Finder*          |**SumatraPDF**                |*Document Viewer*        |
+|                      |**openssh**       |                        |                              |                         |
+|                      |**zathura**       |*Document Viewer*       |                              |                         |
 
 # Arch Installation
 **1. Check Internet connection**
