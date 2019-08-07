@@ -2,6 +2,15 @@
 
 # Applications
 ## Linux
+**OS**
+Arch Linux
+
+**Shell**
+Zsh
+
+**WM**
+i3-Gaps
+
 **Browsers**
 w3m, qutebrowser
 
