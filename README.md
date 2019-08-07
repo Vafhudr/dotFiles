@@ -1,93 +1,51 @@
 # Notes & Dotfiles
 
 # Applications
-## Linux
-### Browsers
-```
-w3m
-qutebrowser
-```
-#### File Sharing
-```
-Curl
-wget
-nextcloud       
-DriveSync
-Dropbox
-rTorrent
-```
-#### Communication
-```
-NeoMutt         (Email)
-irssi           (IRC)
-```
-#### Multimedia
-```
-Feh             (Image Viewer)
-mpd             (Music Player Demon)
-ncmpcpp         (CLI for mpd)
-mpv             (Video)
-```
-#### Utility
-```
-Ranger          (File Manager)
-htop            (Process Viewer)
-neofetch        (System Information)
-neovim          (Text Editor)
-KeepassC        (Password Management)
-dunst           (Notification Daemon)
-tmux            (Terminal Multiplexer)
-fzf             (Fuzzy Finder)
-openssh         (Ssh client & Server)
-zathura         (PDF etc)
-```
-## Windows
-### Browser
-```
-Vivaldi
-```
-### Browser Extensions 
-```
-Ublock Origin
-HTTPS everywhere
-Decentraleyes
-Privacy Badger
-Private Internet Access
-Reddit Enchancement Suite
-4chanX
-```
-#### File Sharing
-```
-nextcloud       
-Drive
-Dropbox
-qBittorrent
-```
-#### Communication
-```
-Discord
-```
-#### Gaming
-```
-Battlenet
-Steam
-Origin
-```
-#### Multimedia
-```
-VLC
-Spotify
-```
-#### Utility
-```
-7zip
-Autohotkey
-Bleachbit
-Classic Shell
-cmdr
-KeepassXC
-teracopy
-```
+
+
+|                      |Linux      |Windows                   |
+|---                   |---        |---                       |
+|**Browsers**          |w3m        |Vivaldi                   |
+|                      |qutebrowser|                          |
+|**Browser Extensions**|           |Ublock Origin             |
+|                      |           |HTTPS everywhere          |
+|                      |           |Decentraleyes             |
+|                      |           |Privacy Badger            |
+|                      |           |Private Internet Access   |
+|                      |           |Reddit Enchancement Suite |
+|                      |           |4chanX                    |
+|**File Sharing**      |Nextcloud  |Nextcloud                 |
+|                      |DriveSync  |GoogleDrive               |
+|                      |Dropbox    |Dropbox                   |
+|                      |rTorrent   |qBittorrent               |
+|                      |Curl       |                          |
+|                      |Wget       |                          |
+|**Communication**     |NeoMutt    |Discord                   |
+|                      |Irssi      |                          |
+|**Gaming**            |           |Battle.net                |
+|                      |           |Steam                     |
+|                      |           |Origin                    |
+|                      |           |Magic the Gathering Online|
+|                      |           |Mtg Arena                 |
+|                      |           |Raider.io Client          |
+|                      |           |Tradeskillmaster Client   |
+|                      |           |Tukui Client              |
+|                      |           |SimulationCraft           |
+|                      |           |Twitch                    |
+|**Multimedia**        |Feh        |Ifranview                 |
+|                      |mpd        |vlc                       |
+|                      |ncmpcpp    |Spotify                   |
+|                      |mpv        |                          |
+|**Utility**           |Ranger     |7zip                      |
+|                      |htop       |Autohotkey                |
+|                      |neofetch   |Bleachbit                 |
+|                      |neovim     |Classic Shell             |
+|                      |KeepassC   |cmdr                      |
+|                      |dunst      |KeepassXC                 |
+|                      |tmux       |teracopy                  |
+|                      |fzf        |                          |
+|                      |openssh    |                          |
+|                      |zathura    |                          |
 
 # Arch Installation
 **1. Check Internet connection**
