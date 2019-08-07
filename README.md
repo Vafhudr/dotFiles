@@ -76,11 +76,11 @@ VLC, Spotify, Ifranview
     
 **6. Select Mirrors**
 
-    1. vi /etc/pacman.d/mirrorlist
+    1. vim /etc/pacman.d/mirrorlist
     
 **7. Install Packages**
 
-    1. pacstrap /mnt Base Base-Devel grub git
+    1. pacstrap /mnt Base Base-Devel grub git vim
     
 **8. Generate Fstab**
 
@@ -96,20 +96,20 @@ VLC, Spotify, Ifranview
     
 **11. Localisation**
 
-    1. vi /etc/locale.gen    
+    1. vim /etc/locale.gen    
     2. en__AU.UTF-8 UTF-8    
     3. locale-gen    
-    4. vi /etc/locale.conf    
+    4. vim /etc/locale.conf    
     5. LANG=en_AU.UTF-8
     
 **12. Network Config**
 
     1. Create hostname file;    
-        1. vi /etc/hostname        
+        1. vim /etc/hostname        
             'myhostname'        
             
     2. Add Entries to hosts    
-        1. vi /etc/hosts        
+        1. vim /etc/hosts        
             127.0.0.1          localhost            
             ::1                localhost            
             127.0.1.1         'myhostname.localdomain          'myhostname'
