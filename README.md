@@ -1,7 +1,7 @@
 # Notes & Dotfiles
 
----
-### Applications
+# Applications
+## Linux
 ### Browsers
 ```
 w3m
@@ -41,6 +41,35 @@ fzf             (Fuzzy Finder)
 openssh         (Ssh client & Server)
 zathura         (PDF etc)
 ```
+## Windows
+### Browser
+```
+Vivaldi
+```
+#### File Sharing
+```
+nextcloud       
+Drive
+Dropbox
+qBittorrent
+```
+#### Communication
+Discord
+```
+#### Gaming
+```
+Battlenet
+Steam
+Origin
+```
+#### Multimedia
+```
+VLC
+Spotify
+```
+#### Utility
+```
+
 
 # Arch Installation
 **1. Check Internet connection**
@@ -184,16 +213,17 @@ zathura         (PDF etc)
 
 # Windows Install Guide
 
-** 1. Install Drivers
+**1. Install Drivers**
 
     1. Motherboard    
     2. Lan    
     3. Chipset
     4. Video Card
 
-** 2. Install chocolatey
+**2. Install chocolatey**
 
 1. Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
-    
-    2. choco install 7zip autohotkey bleachbit classic-shell cmder dropbox irfanview keepassxc qbittorrent spotify teracopy vivaldi vlc flashplayerplugin jre8 malwarebytes steam origin discord twitch cygwin
 
+2. choco install 7zip autohotkey bleachbit classic-shell cmder dropbox irfanview keepassxc qbittorrent spotify teracopy vivaldi vlc flashplayerplugin jre8 malwarebytes steam origin discord twitch cygwin
+
+battlenet Privateinternetacess MTGO MTGA Tukui Client TSM SimicSetup Raider.io
