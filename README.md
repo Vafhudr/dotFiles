@@ -46,6 +46,16 @@ zathura         (PDF etc)
 ```
 Vivaldi
 ```
+### Browser Extensions 
+```
+Ublock Origin
+HTTPS everywhere
+Decentraleyes
+Privacy Badger
+Private Internet Access
+Reddit Enchancement Suite
+4chanX
+```
 #### File Sharing
 ```
 nextcloud       
@@ -54,6 +64,7 @@ Dropbox
 qBittorrent
 ```
 #### Communication
+```
 Discord
 ```
 #### Gaming
@@ -69,7 +80,14 @@ Spotify
 ```
 #### Utility
 ```
-
+7zip
+Autohotkey
+Bleachbit
+Classic Shell
+cmdr
+KeepassXC
+teracopy
+```
 
 # Arch Installation
 **1. Check Internet connection**
@@ -224,6 +242,6 @@ Spotify
 
 1. Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
-2. choco install 7zip autohotkey bleachbit classic-shell cmder dropbox irfanview keepassxc qbittorrent spotify teracopy vivaldi vlc flashplayerplugin jre8 malwarebytes steam origin discord twitch cygwin
+2. choco install 7zip autohotkey bleachbit classic-shell cmder dropbox irfanview keepassxc qbittorrent spotify teracopy vivaldi vlc flashplayerplugin jre8 steam origin discord twitch
 
 battlenet Privateinternetacess MTGO MTGA Tukui Client TSM SimicSetup Raider.io
