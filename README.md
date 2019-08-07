@@ -2,50 +2,53 @@
 
 # Software
 ## Linux
-**OS**
+**OS;**
 Arch Linux
 
-**Shell**
+**Shell;**
 Zsh
 
-**WM**
+**WM;**
 i3-Gaps
 
-**Browsers**
+**Browsers;**
 w3m, qutebrowser
 
-**File Sharing**
+**File Sharing;**
 Nextcloud, DriveSync, Dropbox, rTorrent, Curl, Wget
 
-**Communication**
+**Communication;**
 Irssi, NeoMutt
 
-**Multimedia**
+**Multimedia;**
 feh, mpd, ncmpcpp, mpv
 
-**Utility**
+**Utility;**
 ranger, htop, neofetch, neovim, KeepassC, dunst, tmux, fzf, openssh, zathura
 
 ## Windows
-**Browsers**
+**OS**
+Windows 10 Enterprise LTSC
+
+**Browsers;**
 Vivaldi 
 
-**Browser Extentions**
+**Browser Extentions;**
 Ublock Origin, HTTPS everywhere, Decentraleyes, Privacy Badger, Private Internet Access, Reddit Enchancement Suite, 4chanX
 
-**Filesharing**
+**Filesharing;**
 Nextcloud, GoogleDrive, Dropbox, qBittorrent
 
-**Communication**
+**Communication;**
 Discord 
 
-**Gaming**
+**Gaming;**
 Steam, Battle.net, Origin, Magic the Gathering: Online, Magic The Gathering: Arena, Raider.io Client, TradeSkillMaster Client, Tukui Client, SimulationCraft, Twitch
 
-**Multimedia**
+**Multimedia;**
 VLC, Spotify, Ifranview
 
-**Utility**
+**Utility;**
 7zip, Autohotkey, Bleachbit, Classic Shell, cmdr, KeepassXC, Teracopy, SumatraPDF
 
 # Arch Installation
