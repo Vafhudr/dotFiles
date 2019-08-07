@@ -1,5 +1,4 @@
-3333# Notes & Dotfiles
-A personal repository of notes and instructions on the maintaince and set up of my linux machines. Mostly sourced from the [Archwiki](https://wiki.archlinux.org/). 
+# Notes & Dotfiles
 
 # Arch Installation Guide
 **1. Check Internet connection**
@@ -192,8 +191,7 @@ zathura         (PDF etc)
 
 ** 2. Install chocolatey
 
-    ```
-    1. Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+1. Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
     
     2. choco install 7zip autohotkey bleachbit classic-shell cmder dropbox irfanview keepassxc qbittorrent spotify teracopy vivaldi vlc flashplayerplugin jre8 malwarebytes steam origin discord twitch cygwin
-    ```
+
