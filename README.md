@@ -183,15 +183,17 @@ zathura         (PDF etc)
 ```
 # Windows Install Guide
 
-**1. Install Drivers
+** 1. Install Drivers
 
     1. Motherboard    
     2. Lan    
     3. Chipset
     4. Video Card
 
-**2. Install chocolatey
+** 2. Install chocolatey
 
     ```
-    choco install 7zip autohotkey bleachbit classic-shell cmder dropbox irfanview keepassxc qbittorrent spotify teracopy vivaldi vlc flashplayerplugin jre8 malwarebytes steam origin discord twitch cygwin
+    1. Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+    
+    2. choco install 7zip autohotkey bleachbit classic-shell cmder dropbox irfanview keepassxc qbittorrent spotify teracopy vivaldi vlc flashplayerplugin jre8 malwarebytes steam origin discord twitch cygwin
     ```
