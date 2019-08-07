@@ -1,6 +1,48 @@
 # Notes & Dotfiles
 
-# Arch Installation Guide
+---
+### Applications
+### Browsers
+```
+w3m
+qutebrowser
+```
+#### File Sharing
+```
+Curl
+wget
+nextcloud       
+DriveSync
+Dropbox
+rTorrent
+```
+#### Communication
+```
+NeoMutt         (Email)
+irssi           (IRC)
+```
+#### Multimedia
+```
+Feh             (Image Viewer)
+mpd             (Music Player Demon)
+ncmpcpp         (CLI for mpd)
+mpv             (Video)
+```
+#### Utility
+```
+Ranger          (File Manager)
+htop            (Process Viewer)
+neofetch        (System Information)
+neovim          (Text Editor)
+KeepassC        (Password Management)
+dunst           (Notification Daemon)
+tmux            (Terminal Multiplexer)
+fzf             (Fuzzy Finder)
+openssh         (Ssh client & Server)
+zathura         (PDF etc)
+```
+
+# Arch Installation
 **1. Check Internet connection**
 
 **2. Update System Clock**
@@ -139,47 +181,7 @@
 
 **24. Zsh + OhMyZsh6**
 
----
-### Applications
-### Browsers
-```
-w3m
-qutebrowser
-```
-#### File Sharing
-```
-Curl
-wget
-nextcloud       
-DriveSync
-Dropbox
-rTorrent
-```
-#### Communication
-```
-NeoMutt         (Email)
-irssi           (IRC)
-```
-#### Multimedia
-```
-Feh             (Image Viewer)
-mpd             (Music Player Demon)
-ncmpcpp         (CLI for mpd)
-mpv             (Video)
-```
-#### Utility
-```
-Ranger          (File Manager)
-htop            (Process Viewer)
-neofetch        (System Information)
-neovim          (Text Editor)
-KeepassC        (Password Management)
-dunst           (Notification Daemon)
-tmux            (Terminal Multiplexer)
-fzf             (Fuzzy Finder)
-openssh         (Ssh client & Server)
-zathura         (PDF etc)
-```
+
 # Windows Install Guide
 
 ** 1. Install Drivers
