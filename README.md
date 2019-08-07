@@ -3,7 +3,7 @@
 # Applications
 ## Linux
 **Browsers**
-w3m & qutebrowser
+w3m, qutebrowser
 
 **File Sharing**
 Nextcloud, DriveSync, Dropbox, rTorrent, Curl, Wget
