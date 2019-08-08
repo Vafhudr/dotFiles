@@ -149,8 +149,7 @@ VLC, Spotify, Ifranview
     
 **19. Install Graphical Environment**
 
-    1. pacman -S xorg-server xorg-xinit i3-gaps conky dmenu rxvt-unicode mesa xf86-video-intel tp_smapi compton    
-    2. yay -S polybar
+    1. pacman -S xorg-server xorg-xinit xorg-xrdb i3-gaps conky dmenu rxvt-unicode mesa xf86-video-intel tp_smapi compton    
     3. Set Wallpaper
     
 **20. Reboot System**
