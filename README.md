@@ -14,6 +14,9 @@ i3-Gaps
 **Browsers;**
 w3m, qutebrowser
 
+**Development**
+Python, Ruby, Rails, 
+
 **File Sharing;**
 Nextcloud, DriveSync, Dropbox, rTorrent, Curl, Wget
 
