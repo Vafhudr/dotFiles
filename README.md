@@ -188,4 +188,5 @@ VLC, Spotify, Ifranview
     
     
 **3. Command to enable Hyper key**
+
 REG ADD HKCU\Software\Classes\ms-officeapp\Shell\Open\Command /t REG_SZ /d rundll32
