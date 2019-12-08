@@ -185,6 +185,7 @@ VLC, Spotify, Ifranview
     1. Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
     2. choco install 7zip autohotkey bleachbit classic-shell cmder dropbox irfanview keepassxc qbittorrent spotify teracopy vivaldi vlc flashplayerplugin jre8 steam origin discord twitch sumatra
     3. battlenet Privateinternetacess MTGO MTGA Tukui Client TSM SimicSetup Raider.io
+    https://keypirinha.com
     
     
 **3. Command to enable Hyper key**
