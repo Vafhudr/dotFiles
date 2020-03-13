@@ -66,7 +66,7 @@ iterm2
   ack cmatrix coreutils cowsay curl figlet fzf git findutils gnu-indent gnu-sed -gnutls grep gnu-tar gawk htop irssi lolcat neomutt neofetch neovim openssh ranger tmux tree w3m watch wget powershell pandoc git
 
 Software
-  Alfred, Amethyst, Amphetamine, Bartender, cheatsheet, vscode, keyboard mystro, spotify, mirror chromecast, slack, discord, keepassXC, libreoffice, ubersucht, unified remote, vlc, virtualbox, dropbox, gimp, inkscape istatsmenu shotcut
+  Alfred, Amethyst, Amphetamine, Bartender, cheatsheet, vscode, keyboard mystro, spotify, mirror chromecast, slack, discord, keepassXC, libreoffice, ubersucht, unified remote, vlc, virtualbox, dropbox, gimp, inkscape istatsmenu shotcut audacity krita
 
 Alfred
   workflows: chrome(vivaldi) bookmarks, fixum, homebrew, mdn, slack, stackexchange, => iterm2
