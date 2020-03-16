@@ -1,5 +1,17 @@
 # Notes & Dotfiles
+## Hotkeys
+### OSX
+Right⌘ = Toggle Alfred
 
+⌃+Enter = Launch VS Code
+
+⌥+Enter = Launch Browser
+
+⌘+Enter = Launch Iterm
+
+Right⌥ = Tmux Prefix
+
+⌘+Right⌥ = Vim Leader Key
 # Software
 ## Linux
 **OS;**
