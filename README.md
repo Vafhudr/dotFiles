@@ -26,7 +26,7 @@ feh, mpd, ncmpcpp, mpv
 **Utility;**
 ranger, htop, neofetch, neovim, KeepassC, dunst, tmux, fzf, openssh, zathura
 
-# OSX
+# Mac
 **OS;**
 OSX
 
