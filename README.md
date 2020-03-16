@@ -1,19 +1,4 @@
-# Notes & Dotfiles
-## Hotkeys
-### OSX
-Right⌘ = Toggle Alfred
-
-⌃+Enter = Launch VS Code
-
-⌥+Enter = Launch Browser
-
-⌘+Enter = Launch Iterm
-
-Right⌥ = Tmux Prefix
-
-⌘+Right⌥ = Vim Leader Key
-# Software
-## Linux
+# Linux
 **OS;**
 Arch Linux
 
@@ -41,7 +26,7 @@ feh, mpd, ncmpcpp, mpv
 **Utility;**
 ranger, htop, neofetch, neovim, KeepassC, dunst, tmux, fzf, openssh, zathura
 
-## OSX
+# OSX
 **OS;**
 OSX
 
@@ -70,7 +55,7 @@ w3m, Vivaldi
 
 
 
-## Windows
+# Windows
 **OS**
 Windows 10 Enterprise LTSC
 
@@ -211,7 +196,7 @@ VLC, Spotify, Ifranview
 **24. Configure VIM**
 
     Airline
-    
+
 # Windows Install & Config Guide
 
 **1. Install Drivers**
@@ -261,3 +246,7 @@ LaTeX:
 git:
 
 Vivaldi:
+
+# Browser Install & Config Guide
+
+# VS Code Install & Config Guide
