@@ -80,3 +80,4 @@ VLC, Spotify, Ifranview
 **Utility;**
 7zip, Autohotkey, Bleachbit, Classic Shell, cmdr, KeepassXC, Teracopy, SumatraPDF
 
+# Android
