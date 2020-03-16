@@ -29,7 +29,7 @@ feh, mpd, ncmpcpp, mpv
 **Utility;**
 ranger, htop, neofetch, neovim, KeepassC, dunst, tmux, fzf, openssh, zathura
 
-##OSX
+## OSX
 **OS;**
 OSX
 
@@ -56,34 +56,7 @@ w3m, Vivaldi
 
 **Utility;**
 
-# Install Guide
-reinstall && update
-System Preferences
-xcode
-homebrew
-cask
-iterm2
-  ack cmatrix coreutils cowsay curl figlet fzf git findutils gnu-indent gnu-sed -gnutls grep gnu-tar gawk htop irssi lolcat neomutt neofetch neovim openssh ranger tmux tree w3m watch wget powershell pandoc git
 
-Software
-  Alfred, Amethyst, Amphetamine, Bartender, cheatsheet, vscode, keyboard mystro, spotify, mirror chromecast, slack, discord, keepassXC, libreoffice, ubersucht, unified remote, vlc, virtualbox, dropbox, gimp, inkscape istatsmenu shotcut audacity krita
-
-Alfred
-  workflows: chrome(vivaldi) bookmarks, fixum, homebrew, mdn, slack, stackexchange, => iterm2
-
-python:
-
-java:
-
-ruby: rbenv rails
-
-node: 
-
-LaTeX: 
-
-git:
-
-Vivaldi:
 
 ## Windows
 **OS**
@@ -110,7 +83,7 @@ VLC, Spotify, Ifranview
 **Utility;**
 7zip, Autohotkey, Bleachbit, Classic Shell, cmdr, KeepassXC, Teracopy, SumatraPDF
 
-# Arch Installation
+# Arch Install & Config Guide
 **1. Check Internet connection**
 
 **2. Update System Clock**
@@ -227,7 +200,7 @@ VLC, Spotify, Ifranview
 
     Airline
     
-# Windows Install Guide
+# Windows Install & Config Guide
 
 **1. Install Drivers**
 
@@ -247,3 +220,32 @@ VLC, Spotify, Ifranview
 **3. Command to enable Hyper key**
 
     REG ADD HKCU\Software\Classes\ms-officeapp\Shell\Open\Command /t REG_SZ /d rundll32
+
+# OSX Install & Config Guide
+reinstall && update
+System Preferences
+xcode
+homebrew
+cask
+iterm2
+  ack cmatrix coreutils cowsay curl figlet fzf git findutils gnu-indent gnu-sed -gnutls grep gnu-tar gawk htop irssi lolcat neomutt neofetch neovim openssh ranger tmux tree w3m watch wget powershell pandoc git
+
+Software
+  Alfred, Amethyst, Amphetamine, Bartender, cheatsheet, vscode, keyboard mystro, spotify, mirror chromecast, slack, discord, keepassXC, libreoffice, ubersucht, unified remote, vlc, virtualbox, dropbox, gimp, inkscape istatsmenu shotcut audacity krita
+
+Alfred
+  workflows: chrome(vivaldi) bookmarks, fixum, homebrew, mdn, slack, stackexchange, => iterm2
+
+python:
+
+java:
+
+ruby: rbenv rails
+
+node: 
+
+LaTeX: 
+
+git:
+
+Vivaldi:
