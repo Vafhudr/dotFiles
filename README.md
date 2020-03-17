@@ -1,4 +1,4 @@
-# Linux (Dev Laptop)
+# Linux [Installation](../../wiki/Arch-Installation)[Configuration](../../wiki/Arch-Configuration) (Dev Laptop)
 | Catagory  |   |
 | ------------- | ------------- |
 | **Hardware** | Thinkpad x60 |
