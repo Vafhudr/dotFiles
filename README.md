@@ -1,6 +1,7 @@
-# Linux; [Installation](../../wiki/Arch-Installation), [Configuration](../../wiki/Arch-Configuration)
+# Linux
 | Catagory  |   |
 | ------------- | ------------- |
+| **Wiki** | [Installation](../../wiki/Arch-Installation), [Configuration](../../wiki/Arch-Configuration) |
 | **Hardware** | Thinkpad x60 |
 | **Purpose** | Dev Laptop |
 | **OS** | Arch Linux |
@@ -13,9 +14,10 @@
 | **Multimedia** | feh, mpd, ncmpcpp, mpv |
 | **Utility** | ranger, htop, neofetch, neovim, KeepassC, dunst, tmux, fzf, openssh, zathura |
 
-# Mac; [Installation](../../wiki/OSX-Installation), [Configuration](../../wiki/OSX-Configuration)
+# Mac
 | Catagory  |   |
 | ------------- | ------------- |
+| **Wiki** | [Installation](../../wiki/OSX-Installation), [Configuration](../../wiki/OSX-Configuration) |
 | **Hardware** | Macbook Pro |
 | **Purpose** | Dev & Design Laptop |
 | **OS** | OSX Catalina 10.15.3 |
@@ -29,9 +31,10 @@
 | **Design** | Gimp, Inkscape, Krita, Shotcut, Audacity |
 | **Utility** | Alfred, Amphetamine, Bartender, Cheatsheet, keyboard maestro, KeepassXC, Libreoffice, Ubersucht, Unified Remote, istatsmenu |
 
-# Windows; [Installation](../../wiki/Windows-Installation), [Configuration](../../wiki/Windows-Configuration)
+# Windows
 | Catagory  |   |
 | ------------- | ------------- |
+| **Wiki** |  [Installation](../../wiki/Windows-Installation), [Configuration](../../wiki/Windows-Configuration) |
 | **Hardware** | [Hardware](../../wiki/Gaming-Hardware) |
 | **Purpose** | Gaming Rig |
 | **OS** | Windows 10 Enterprise LTSC |
