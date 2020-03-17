@@ -1,58 +1,28 @@
 # Linux
-**OS;**
-Arch Linux
-
-**Shell;**
-Zsh
-
-**WM;**
-i3-Gaps
-
-**Browsers;**
-w3m, qutebrowser
-
-**Development**
-Python, Ruby, Rails, 
-
-**File Sharing;**
-Nextcloud, DriveSync, Dropbox, rTorrent, Curl, Wget
-
-**Communication;**
-Irssi, NeoMutt
-
-**Multimedia;**
-feh, mpd, ncmpcpp, mpv
-
-**Utility;**
-ranger, htop, neofetch, neovim, KeepassC, dunst, tmux, fzf, openssh, zathura
+| Catagory  |   |
+| ------------- | ------------- |
+| **OS** | Arch Linux |
+| **Shell** | Zsh |
+| **WM** | i3-Gaps |
+| **Browsers** | Vivaldi, Qutebrowser, w3m |
+| **Development** | Python, Ruby, Rails |
+| **File Sharing** | Nextcloud, DriveSync, Dropbox, rTorrent, Curl, Wget |
+| **Communication** | Irssi, Neomutt |
+| **Multimedia** | feh, mpd, ncmpcpp, mpv |
+| **Utility** | ranger, htop, neofetch, neovim, KeepassC, dunst, tmux, fzf, openssh, zathura |
 
 # Mac
-**OS;**
-OSX
-
-**Shell;**
-Zsh
-
-**WM;**
-Amethyst
-
-**Browsers;**
-w3m, Vivaldi
-
-**Development**
-
-
-**File Sharing;**
-
-
-**Communication;**
-
-
-**Multimedia;**
-
-
-**Utility;**
-
+| Catagory  |   |
+| ------------- | ------------- |
+| **OS** | OSX Catalina 10.15.3 |
+| **Shell** | Zsh |
+| **WM** | Amethyst |
+| **Browsers** | Vivaldi, Qutebrowser, w3m |
+| **Development** |  |
+| **File Sharing** |  |
+| **Communication** |  |
+| **Multimedia** |  |
+| **Utility** | Alfred, Bartender,   |
 
 
 # Windows
