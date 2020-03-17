@@ -1,5 +1,5 @@
-# Linux
-| Catagory  |   |
+# Linux 
+| Catagory  | |
 | ------------- | ------------- |
 | **Wiki** | [Installation](../../wiki/Arch-Installation)<br />[Configuration](../../wiki/Arch-Configuration) |
 | **Hardware** | Thinkpad x60 |
@@ -15,7 +15,7 @@
 | **Utility** | ranger<br />htop<br />neofetch<br />neovim<br />KeepassC<br />dunst<br />tmux<br />fzf<br />openssh<br />zathura |
 
 # Mac
-| Catagory  |   |
+| Catagory  | |
 | ------------- | ------------- |
 | **Wiki** | [Installation](../../wiki/OSX-Installation)<br />[Configuration](../../wiki/OSX-Configuration) |
 | **Hardware** | Macbook Pro |
@@ -32,7 +32,7 @@
 | **Utility** | Alfred<br />Amphetamine<br />Bartender<br />Cheatsheet<br />keyboard maestro<br />KeepassXC<br />Libreoffice<br />Ubersucht<br />Unified Remote<br />istats menu |
 
 # Windows
-| Catagory  |   |
+| Catagory  | |
 | ------------- | ------------- |
 | **Wiki** |  [Installation](../../wiki/Windows-Installation)<br />[Configuration](../../wiki/Windows-Configuration) |
 | **Hardware** | [Hardware](../../wiki/Gaming-Hardware) |
@@ -46,6 +46,6 @@
 | **Utility** | 7zip<br />Autohotkey<br />Bleachbit<br />Classic Shell<br />cmdr<br />KeepassXC<br />Teracopy<br />SumatraPDF |
 
 # Android
-| Catagory  |   |
+| Catagory  | |
 | ------------- | ------------- |
 | **Hardware** | Pixel 4xl Black |
