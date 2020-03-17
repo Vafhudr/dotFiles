@@ -1,7 +1,8 @@
-# Linux; [Installation](../../wiki/Arch-Installation) [Configuration](../../wiki/Arch-Configuration) (Dev Laptop)
+# Linux; [Installation](../../wiki/Arch-Installation), [Configuration](../../wiki/Arch-Configuration)
 | Catagory  |   |
 | ------------- | ------------- |
 | **Hardware** | Thinkpad x60 |
+| **Purpose** | Dev Laptop |
 | **OS** | Arch Linux |
 | **Shell** | Zsh |
 | **WM** | i3-Gaps |
@@ -12,10 +13,11 @@
 | **Multimedia** | feh, mpd, ncmpcpp, mpv |
 | **Utility** | ranger, htop, neofetch, neovim, KeepassC, dunst, tmux, fzf, openssh, zathura |
 
-# Mac; [Installation](../../wiki/OSX-Installation) [Configuration](../../wiki/OSX-Configuration) (Design & Dev Laptop)
+# Mac; [Installation](../../wiki/OSX-Installation), [Configuration](../../wiki/OSX-Configuration)
 | Catagory  |   |
 | ------------- | ------------- |
 | **Hardware** | Macbook Pro |
+| **Purpose** | Dev & Design Laptop |
 | **OS** | OSX Catalina 10.15.3 |
 | **Shell** | Zsh |
 | **WM** | Amethyst |
@@ -27,10 +29,11 @@
 | **Design** | Gimp, Inkscape, Krita, Shotcut, Audacity |
 | **Utility** | Alfred, Amphetamine, Bartender, Cheatsheet, keyboard maestro, KeepassXC, Libreoffice, Ubersucht, Unified Remote, istatsmenu |
 
-# Windows; [Installation](../../wiki/Windows-Installation) [Configuration](../../wiki/Windows-Configuration) (Gaming Rig)
+# Windows; [Installation](../../wiki/Windows-Installation), [Configuration](../../wiki/Windows-Configuration)
 | Catagory  |   |
 | ------------- | ------------- |
 | **Hardware** | [Hardware](../../wiki/Gaming-Hardware) |
+| **Purpose** | Gaming Rig |
 | **OS** | Windows 10 Enterprise LTSC |
 | **Browsers** | Vivaldi |
 | **File Sharing** | Nextcloud, GoogleDrive, Dropbox, qBittorrent, |
