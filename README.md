@@ -62,9 +62,6 @@ Windows 10 Enterprise LTSC
 **Browsers;**
 Vivaldi 
 
-**Browser Extentions;**
-Ublock Origin, HTTPS everywhere, Decentraleyes, Privacy Badger, Private Internet Access, Reddit Enchancement Suite, 4chanX
-
 **File Sharing;**
 Nextcloud, GoogleDrive, Dropbox, qBittorrent
 
