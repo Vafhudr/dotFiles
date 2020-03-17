@@ -1,4 +1,4 @@
-# Linux [Installation](../../wiki/Arch-Installation)[Configuration](../../wiki/Arch-Configuration) (Dev Laptop)
+# Linux; [Installation](../../wiki/Arch-Installation) [Configuration](../../wiki/Arch-Configuration) (Dev Laptop)
 | Catagory  |   |
 | ------------- | ------------- |
 | **Hardware** | Thinkpad x60 |
@@ -12,7 +12,7 @@
 | **Multimedia** | feh, mpd, ncmpcpp, mpv |
 | **Utility** | ranger, htop, neofetch, neovim, KeepassC, dunst, tmux, fzf, openssh, zathura |
 
-# Mac (Design + Dev Laptop)
+# Mac; [Installation](../../wiki/OSX-Installation) [Configuration](../../wiki/OSX-Configuration) (Design & Dev Laptop)
 | Catagory  |   |
 | ------------- | ------------- |
 | **Hardware** | Macbook Pro |
@@ -27,10 +27,10 @@
 | **Design** | Gimp, Inkscape, Krita, Shotcut, Audacity |
 | **Utility** | Alfred, Amphetamine, Bartender, Cheatsheet, keyboard maestro, KeepassXC, Libreoffice, Ubersucht, Unified Remote, istatsmenu |
 
-# Windows (Gaming Rig)
+# Windows; [Installation](../../wiki/Windows-Installation) [Configuration](../../wiki/Windows-Configuration) (Gaming Rig)
 | Catagory  |   |
 | ------------- | ------------- |
-| **Hardware** |  |
+| **Hardware** | [Hardware](../../wiki/Gaming-Hardware) |
 | **OS** | Windows 10 Enterprise LTSC |
 | **Browsers** | Vivaldi |
 | **File Sharing** | Nextcloud, GoogleDrive, Dropbox, qBittorrent, |
