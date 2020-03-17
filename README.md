@@ -1,7 +1,7 @@
 # Linux
 | Catagory  |   |
 | ------------- | ------------- |
-| **Wiki** | [Installation](../../wiki/Arch-Installation), [Configuration](../../wiki/Arch-Configuration) |
+| **Wiki** | [Installation](../../wiki/Arch-Installation)<br />[Configuration](../../wiki/Arch-Configuration) |
 | **Hardware** | Thinkpad x60 |
 | **Purpose** | Dev Laptop |
 | **OS** | Arch Linux |
@@ -17,7 +17,7 @@
 # Mac
 | Catagory  |   |
 | ------------- | ------------- |
-| **Wiki** | [Installation](../../wiki/OSX-Installation), [Configuration](../../wiki/OSX-Configuration) |
+| **Wiki** | [Installation](../../wiki/OSX-Installation)<br />[Configuration](../../wiki/OSX-Configuration) |
 | **Hardware** | Macbook Pro |
 | **Purpose** | Dev & Design Laptop |
 | **OS** | OSX Catalina 10.15.3 |
@@ -34,7 +34,7 @@
 # Windows
 | Catagory  |   |
 | ------------- | ------------- |
-| **Wiki** |  [Installation](../../wiki/Windows-Installation), [Configuration](../../wiki/Windows-Configuration) |
+| **Wiki** |  [Installation](../../wiki/Windows-Installation)<br />[Configuration](../../wiki/Windows-Configuration) |
 | **Hardware** | [Hardware](../../wiki/Gaming-Hardware) |
 | **Purpose** | Gaming Rig |
 | **OS** | Windows 10 Enterprise LTSC |
