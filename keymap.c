@@ -15,40 +15,42 @@
 #define _RAISE 3
 #define _ADJUST 16
 
-#define LOWER LT(2,KC_SPC)                       //Lower & Space
-#define RAISE LT(3,KC_ENT)                       //Raise & Enter
+#define LOWER LT(2,KC_SPC)                       //Tap: Space                 Hold: Lower
+#define RAISE LT(3,KC_ENT)                       //Tap: Enter                 Hold: Raise
 
-#define MENU  A(G(KC_D))
-#define TERM  A(G(KC_ENT))
-#define TMUX  LCTL(KC_B)
+#define LLR_GUI   MT(MOD_LGUI, KC_LEAD)          //Tap: Lead                  Hold: Gui
+#define RLR_GUI   MT(MOD_RGUI, KC_LEAD)          //Tap: Lead                  Hold: Gui
 
-#define TAB_ALT   MT(MOD_LALT, KC_TAB)           //Tap: Tab           Hold: Alt
-#define DEL_ALT   MT(MOD_RALT, KC_DEL)           //Tap: Delete        Hold: Alt
+#define TAB_ALT   MT(MOD_LALT, KC_TAB)           //Tap: Tab                   Hold: Alt
+#define DEL_ALT   MT(MOD_RALT, KC_DEL)           //Tap: Delete                Hold: Alt
 
-#define ESC_CTL   MT(MOD_LCTL, KC_ESC)           //Tap: Escape        Hold: Ctrl
-#define BKS_CTL   MT(MOD_RCTL, KC_BSPC)          //Tap: Backspace     Hold: Ctrl
+#define ESC_CTL   MT(MOD_LCTL, KC_ESC)           //Tap: Escape                Hold: Ctrl
+#define BKS_CTL   MT(MOD_RCTL, KC_BSPC)          //Tap: Backspace             Hold: Ctrl
 
-#define SHFT_S   LSFT_T(KC_GRV)                  //Tap: ` ~           Hold: Shift
-#define SHFT_Q   RSFT_T(KC_QUOT)                 //Tap: ' "           Hold: Shift
+#define SHFT_S   LSFT_T(KC_GRV)                  //Tap: ` ~                   Hold: Shift
+#define SHFT_Q   RSFT_T(KC_QUOT)                 //Tap: ' "                   Hold: Shift
 
-#define CAD     LALT(LCTL(KC_DEL))               //Control Alt Delete
-#define TASK    LCTL(LSFT(KC_ESC))               // Control Shift Escape, Opens Task Managers
+//MOD = GUI+ALT
+#define CAD     LCTL(LALT(KC_DEL))               //Control Alt Delete         
+#define TASK    LCTL(LSFT(KC_ESC))               //Control Shift Escape       Taskmanager
+#define MENU    LGUI(LALT(KC_D))                 //MOD+D                      Application Launcher
+#define TERM    LGUI(LALT(KC_ENT))               //MOD+ENTER                  Open New Terminal
 
 #define ____ KC_NO
 #define vvvv KC_TRNS
 
 enum {
-    COMM_EQL,                                   //Single Tap: , <          Double Tap: = +
-	DOT_MINS,                                   //Single Tap: . >          Double Tap: - _
-	SLSH_BSLS,                                  //Single Tap: / ?          Double Tap: \ |
-	PGUP_HOME,                                  //Single Tap: Page UP      Double Tap: HOME
-	PGDN_END,                                   //Single Tap: Page Down    Double Tap: END
+    COMM_EQL,                                   //Single Tap: , <             Double Tap: = +
+	DOT_MINS,                                   //Single Tap: . >             Double Tap: - _
+	SLSH_BSLS,                                  //Single Tap: / ?             Double Tap: \ |
+	PGUP_HOME,                                  //Single Tap: Page UP         Double Tap: HOME
+	PGDN_END,                                   //Single Tap: Page Down       Double Tap: END
 	
 };
 
 enum combos { 
-  C_L_CAPS,
-  
+  RALT_RCTL_RGUI,
+  LALT_LCTL_LGUI,
 };
 
 /* ************************************************************************************************************************************* */
@@ -78,7 +80,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
      ╚═══════╩═══════╩═══════╩═══════╩═══════╩═══════╝                 ╚═══════╩═══════╩═══════╩═══════╩═══════╩═══════╝
   
    						     ╔═══════╦═══════╦═══════╗				   ╔═══════╦═══════╦═══════╗
-   						     ║ LEAD  ║ MENU  ║       ║                 ║       ║ TERM  ║  TMUX ║
+   						     ║ LEAD  ║ MENU  ║       ║                 ║       ║ TERM  ║ LEAD  ║
    						     ╚═══════╩═══════╣ LOWER ║                 ║ RAISE ╠═══════╩═══════╝
   						                     ║	     ║                 ║	   ║
   									         ╚═══════╝                 ╚═══════╝														 */
@@ -86,7 +88,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     TAB_ALT,    KC_Q,    KC_W,    KC_F,    KC_P,    KC_B,               KC_J,    KC_L,         KC_U,        KC_Y,       KC_SCLN,   DEL_ALT,
     ESC_CTL,    KC_A,    KC_R,    KC_S,    KC_T,    KC_G,               KC_M,    KC_N,         KC_E,        KC_I,          KC_O,   BKS_CTL,
 	 SHFT_S,    KC_Z,    KC_X,    KC_C,    KC_D,    KC_V,               KC_K,    KC_H, TD(COMM_EQL),TD(DOT_MINS), TD(SLSH_BSLS),    SHFT_Q,
-                               KC_LEAD,    MENU,   LOWER,              RAISE,    TERM,        TMUX),
+                               LLR_GUI,    MENU,   LOWER,              RAISE,    TERM,     RLR_GUI),
 /* ************************************************************************************************************************************* */
 /*  ___   _                         																									 */
 /* | _ \ | |  ___  __ __  ___   _ _ 																									 */
@@ -135,7 +137,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   						                   ║       ║                 ║       ║
   									       ╚═══════╝                 ╚═══════╝														     */
   [_LOWER] = LAYOUT_split_3x6_3(
-   KC_F11,  KC_F1,  KC_F2,  KC_F3,  KC_F4,    KC_F5,                   KC_F6,    KC_F7,  KC_F8,  KC_F9, KC_F10,  KC_F12,
+   KC_F11,  KC_F1,  KC_F2,  KC_F3,  KC_F4,    KC_F5,                   KC_F6,    KC_F7,  KC_F8,  KC_F9, KC_F10, KC_F12,
   KC_LBRC,   KC_1,   KC_2,   KC_3,   KC_4,     KC_5,                   KC_6,     KC_7,   KC_8,   KC_9,   KC_0, KC_RBRC,
      ____,   ____,   ____,   ____,   ____,     ____,                   ____,     ____,   ____,   ____,   ____,    ____,
                               CAD,TD(PGUP_HOME), vvvv,                 vvvv,TD(PGDN_END),  TASK),
@@ -240,10 +242,13 @@ void matrix_scan_user(void) {
 /*  \___| \___/ |_|_|_| |_.__/ \___/ /__/																								 */
 /*																			  															 */
 /* ************************************************************************************************************************************* */
-const uint16_t PROGMEM c_l_caps[] = { KC_C, KC_L, COMBO_END};
+const uint16_t PROGMEM ralt_rctl_rgui[] = { KC_RALT, KC_RCTL, COMBO_END};
+const uint16_t PROGMEM lalt_lctl_lgui[] = { KC_LALT, KC_LCTL, COMBO_END};
 
 combo_t key_combos[COMBO_COUNT] = {
-  [C_L_CAPS] = COMBO(c_l_caps, KC_CAPS),
+  [RALT_RCTL_RGUI] = COMBO(ralt_rctl_rgui, KC_RGUI),
+  [LALT_LCTL_LGUI] = COMBO(lalt_lctl_lgui, KC_LGUI),
+  
 };
 /* ************************************************************************************************************************************* */
 /*  _____                   ___                           																				 */
